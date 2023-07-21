@@ -1,0 +1,8 @@
+app-success-alert{
+    color: green;
+    font-size: 30px;
+}
+app-warning-alert{
+    color: red;
+    font-size: 30px;
+}
